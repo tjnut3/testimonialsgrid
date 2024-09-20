@@ -15,6 +15,9 @@ body {
 }
 
 .post1 {
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: calc(100% - 20%) 0;
     margin-bottom: 30px;
     background-color: #733fc8;
     border-radius: 8px;
